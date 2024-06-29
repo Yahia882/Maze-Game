@@ -1,0 +1,10 @@
+*.dll
+*.sln
+maze.vcxproj
+maze.vcxproj.filters
+maze.vcxproj.user
+x64/
+maze/
+freeglut/
+Debug/
+.vs/
